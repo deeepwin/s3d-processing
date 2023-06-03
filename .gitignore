@@ -1,6 +1,5 @@
 *.tar
 *.zip
-*.png
 .DS_Store
 __pycache__
 data/
